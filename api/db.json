@@ -1,0 +1,19 @@
+{
+  "streams": [
+    {
+      "title": "Great streams",
+      "description": "new streams",
+      "id": 1
+    },
+    {
+      "title": "Great streams",
+      "description": "new streams",
+      "id": 2
+    },
+    {
+      "title": "Great streams",
+      "description": "new streams",
+      "id": 3
+    }
+  ]
+}
